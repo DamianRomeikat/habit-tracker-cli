@@ -110,6 +110,6 @@ Matriculation number: 102203512
 
 Course: DLBDSOOFPP01 - Object-Oriented and Functional Programming with Python
 
-GitHub repository: https://github.com/DamianRomeikat
+GitHub repository:https://github.com/DamianRomeikat/habit-tracker-cli.git
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
